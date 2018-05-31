@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  net-core:
+    image: microsoft/dotnet
+    container_name: MyCore
+    volumes:
+      - "${HOST_DIR}:/home"
+    tty: true
