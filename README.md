@@ -1,3 +1,3 @@
-## .NET Core + Jenkins + SonarQube + Slack Demo
+## .NET Core + Docker for Development Environment
 
-Demo for http://oomusou.io/sonarqube/slack/
+Demo for http://oomusou.io/netcore/docker-dev/
